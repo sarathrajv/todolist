@@ -1,0 +1,47 @@
+*{margin: 0;
+padding: 0;
+}
+
+.all{
+    background-image: linear-gradient(rgb(86, 163, 226),rgb(206, 206, 206));
+    width: 100%;
+    height: 100vh;
+    display: flex;
+   
+   align-items: center;
+    flex-direction: column;
+
+}
+#readtext{
+    width: 560px;
+    height: 40px;
+    border-radius: 15px;
+}
+.readtext1{
+    width: 500px;
+    height: 40px;
+    border-radius: 15px;
+    font-size: large;
+}
+.edit{
+    width: 70px;
+    height: 40px;
+    border-radius:10px;
+    background-image: linear-gradient(rgb(88, 0, 88),rgb(155, 202, 255));
+    color: white;
+}
+.delete{
+    width: 70px;
+    height: 40px;
+    border-radius: 10px;
+    background-image: linear-gradient(rgb(88, 0, 88),rgb(155, 202, 255));
+    color: white;
+}
+.submit{
+    width: 75px;
+    height: 40px;
+    border-radius: 10px;
+    background-image: linear-gradient(rgb(88, 0, 88),rgb(155, 202, 255));
+    color: white;
+}
+
